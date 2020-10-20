@@ -1,0 +1,392 @@
+access_icons/manifest.xml:	<version>2.3.0</version>
+access_icons/manifest.xml:		<version>2.3</version>
+account_removal/manifest.xml:	<version>3.0</version>
+account_removal/manifest.xml:		<version>2.1</version>
+activity/manifest.xml:	<version>3.0</version>
+activity/manifest.xml:		<version>3.0</version>
+admin_tools/manifest.xml:	<version>5.1</version>
+admin_tools/manifest.xml:		<version>3.0</version>
+advanced_comments/manifest.xml:	<version>6.2</version>
+advanced_comments/manifest.xml:		<version>3.3.0</version>
+advanced_notifications/manifest.xml:	<version>4.1</version>
+advanced_notifications/manifest.xml:		<version>3.0</version>
+agerestriction/manifest.xml:	<version>3.3.0</version>
+agerestriction/manifest.xml:		<version>3.3.0</version>
+album_link/manifest.xml:	<version>3.3.0</version>
+album_link/manifest.xml:		<version>3.3.0</version>
+analytics/manifest.xml:	<version type="dist">1.0.1</version>
+analytics/manifest.xml:		<version>2.3</version>
+architect-theme/manifest.xml:	<version>1.0</version>
+architect-theme/manifest.xml:		<version>1.9</version>
+auto_sitemap/manifest.xml:	<version>3.0.1</version>
+auto_sitemap/manifest.xml:		<version>3.0</version>
+avatar_wall/manifest.xml:	<version>3.3.1</version>
+avatar_wall/manifest.xml:		<version>3.3.0</version>
+backtotop/manifest.xml:        <version type="dist">0.0.1</version>
+backtotop/manifest.xml:                <version>3.0</version>
+birthdays/manifest.xml:	<version>2.0.1</version>
+birthdays/manifest.xml:		<version>1.9</version>
+birthdays/manifest.xml:		<version>8.0</version>
+blog/manifest.xml:	<version>3.0</version>
+blog/manifest.xml:		<version>3.0</version>
+blog_tools/manifest.xml:	<version>8.2.1</version>
+blog_tools/manifest.xml:		<version>3.0</version>
+bookmarks/manifest.xml:	<version>3.0</version>
+bookmarks/manifest.xml:		<version>3.0</version>
+captcha/manifest.xml:	<version>3.0.0</version>
+captcha/manifest.xml:		<version>3.0.0</version>
+checkin/manifest.xml:	<version>2019.08.04</version>
+checkin/manifest.xml:		<version>3.0</version>
+ckeditor/manifest.xml:	<version>3.0</version>
+ckeditor/manifest.xml:		<version>3.0</version>
+ckeditor_addons/manifest.xml:	<version type="dist">6.0.1</version>
+ckeditor_addons/manifest.xml:		<version>2.3</version>
+ckeditor_addons/manifest.xml:		<version>4.0.0</version>
+ckeditor_extended/manifest.xml:	<version>4.0.6</version>
+ckeditor_extended/manifest.xml:		<version>3.0</version>
+cmspages-elgg_2.3/manifest.xml:	<version>2.3.0</version>
+cmspages-elgg_2.3/manifest.xml:		<version>2.3</version>
+comment_edit_permissions/manifest.xml:	<version>3.3.0</version>
+comment_edit_permissions/manifest.xml:	<version>3.3.0</version>
+connect-theme/manifest.xml:	<version>1.9</version>
+connect-theme/manifest.xml:		<version>1.9</version>
+content_subscriptions/manifest.xml:	<version>6.1</version>
+content_subscriptions/manifest.xml:		<version>3.0</version>
+content_subscriptions/manifest.xml:		<version>1.9</version>
+cookiebanner/manifest.xml:	<version>3.3.0</version>
+cookiebanner/manifest.xml:		<version>3.3.0</version>
+croncheck/manifest.xml:	<version>3.0.0</version>
+croncheck/manifest.xml:		<version>3.0.0</version>
+custom_index/manifest.xml:	<version>3.0</version>
+custom_index/manifest.xml:		<version>3.0</version>
+customsize_groupimage/manifest.xml:	<version>3.0.0</version>
+customsize_groupimage/manifest.xml:		<version>3.0.0</version>
+dashboard/manifest.xml:	<version>3.0</version>
+dashboard/manifest.xml:		<version>3.0</version>
+diagnostics/manifest.xml:	<version>3.0</version>
+diagnostics/manifest.xml:		<version>3.0</version>
+digest/manifest.xml:	<version>2.2.1</version>
+digest/manifest.xml:		<version>1.8.15</version>
+digest/manifest.xml:		<version>2.3</version>
+discussions/manifest.xml:	<version>3.0</version>
+discussions/manifest.xml:		<version>3.0</version>
+discussions_tools/manifest.xml:	<version>4.0</version>
+discussions_tools/manifest.xml:		<version>3.0</version>
+donation/manifest.xml:	<version>1.10</version>
+donation/manifest.xml:		<version>1.10</version>
+elgg_connect/manifest.xml:	<version>2019.10.12</version>
+elgg_connect/manifest.xml:		<version>3.0</version>
+elgg_cookieconsent/manifest.xml:	<version>1.1</version>
+elgg_cookieconsent/manifest.xml:		<version>1.9</version>
+elgg-geocomplete/manifest.xml:	<version>2.0</version>
+elgg-geocomplete/manifest.xml:		<version>1.9</version>
+elgg-thewire-links-preview/manifest.xml:	<version>1.10</version>
+elgg-thewire-links-preview/manifest.xml:		<version>1.9</version>
+elggx_fivestar/manifest.xml:	<version>3.3.1</version>
+elggx_fivestar/manifest.xml:		<version>3.3.0</version>
+elggx_userpoints/manifest.xml:	<version>2.3.4</version>
+elggx_userpoints/manifest.xml:		<version>2.3.0</version>
+email_postscript/manifest.xml:	<version>2.3.0</version>
+email_postscript/manifest.xml:		<version>2.3.0</version>
+embed/manifest.xml:	<version>3.0</version>
+embed/manifest.xml:		<version>3.0</version>
+embed_extended/manifest.xml:	<version>4.0</version>
+embed_extended/manifest.xml:		<version>3.3</version>
+emoticons_css/manifest.xml:	<version>0.2</version>
+emoticons_css/manifest.xml:		<version>1.8</version>
+event_manager/manifest.xml:	<version>12.2</version>
+event_manager/manifest.xml:		<version>3.3</version>
+extendafriend/manifest.xml:	<version>2.4</version>
+extendafriend/manifest.xml:		<version>1.8.1</version>
+extendafriend/manifest.xml:		<version>3.0.2</version>
+externalpages/manifest.xml:	<version>3.0</version>
+externalpages/manifest.xml:		<version>3.0</version>
+favicon_override/manifest.xml:	<version>3.0.0</version>
+favicon_override/manifest.xml:		<version>3.0.0</version>
+file/manifest.xml:	<version>3.0</version>
+file/manifest.xml:		<version>3.0</version>
+flexible_friendlytime/manifest.xml:    <version>1.5</version>
+flexible_friendlytime/manifest.xml:        <version>1.9</version>
+footer_custom/manifest.xml:	<version>1.0</version>
+footer_custom/manifest.xml:		<version>2.1</version>
+forms/manifest.xml:	<version>3.1</version>
+forms/manifest.xml:		<version>3.3</version>
+forms/manifest.xml:		<version>4.0</version>
+freichat/manifest.xml:    <version>1.0</version>
+freichat/manifest.xml:        <version>1.12</version>
+friend_request/manifest.xml:	<version>5.0</version>
+friend_request/manifest.xml:		<version>2.0</version>
+friends/manifest.xml:	<version>3.0</version>
+friends/manifest.xml:		<version>3.0</version>
+friends_collections/manifest.xml:	<version>3.0</version>
+friends_collections/manifest.xml:		<version>3.0</version>
+galliBadword_filter/manifest.xml:	<version>2.0</version>
+galliBadword_filter/manifest.xml:		<version>1.9</version>
+garbagecollector/manifest.xml:	<version>3.0</version>
+garbagecollector/manifest.xml:		<version>3.0</version>
+groups/manifest.xml:	<version>3.0</version>
+groups/manifest.xml:		<version>3.0</version>
+group_tools/manifest.xml:	<version>12.0.1</version>
+group_tools/manifest.xml:		<version>3.3</version>
+homepage_cms/manifest.xml:	<version>1.2</version>
+homepage_cms/manifest.xml:		<version>1.8</version>
+homepage_portfolio_elgg/manifest.xml:	<version>2.3</version>
+homepage_portfolio_elgg/manifest.xml:		<version>2.3</version>
+html_email_handler/manifest.xml:	<version>5.0.4</version>
+html_email_handler/manifest.xml:		<version>3.0</version>
+http_blacklist/manifest.xml:	<version>3.3.0</version>
+http_blacklist/manifest.xml:		<version>3.3.0</version>
+hypeActivity/manifest.xml:    <version type="dist">1.3.0</version>
+hypeActivity/manifest.xml:        <version>3.0</version>
+hypeAjax/manifest.xml:    <version type="dist">1.2.1</version>
+hypeAjax/manifest.xml:        <version>3.0</version>
+hypeApps/manifest.xml:	<version type="dist">5.1.1</version>
+hypeApps/manifest.xml:		<version>2.0</version>
+hypeAttachments/manifest.xml:	<version type="dist">3.1.2</version>
+hypeAttachments/manifest.xml:		<version>3.0</version>
+hypeAttachments/vendor/hypejunction/acl_builder_api/manifest.xml:	<version type="dist">1.1.1</version>
+hypeAttachments/vendor/hypejunction/acl_builder_api/manifest.xml:		<version>1.11</version>
+hypeAutocomplete/manifest.xml:    <version type="dist">1.1.3</version>
+hypeAutocomplete/manifest.xml:        <version>3.0</version>
+hypeBlog/manifest.xml:   <version type="dist">1.1.1</version>
+hypeBlog/manifest.xml:        <version>3.0</version>
+hypeCapabilities/manifest.xml:   <version type="dist">1.2.0</version>
+hypeCapabilities/manifest.xml:        <version>3.0</version>
+hypeCli/manifest.xml:   <version type="dist">1.1.0</version>
+hypeCli/manifest.xml:        <version>3.0</version>
+hypeCountries/manifest.xml:	<version type="dist">2.1.3</version>
+hypeCountries/manifest.xml:		<version>3.0</version>
+hypeDirectory/manifest.xml:	<version type="dist">1.0.3</version>
+hypeDirectory/manifest.xml:		<version>2.2</version>
+hypeDiscussions/manifest.xml:	<version type="dist">3.1.1</version>
+hypeDiscussions/manifest.xml:		<version>3.0</version>
+hypeDownloads/manifest.xml:	<version type="dist">1.2.3</version>
+hypeDownloads/manifest.xml:		<version>3.0</version>
+hypeDraft/manifest.xml:   <version type="dist">1.1.0</version>
+hypeDraft/manifest.xml:        <version>3.0</version>
+hypeDropzone/manifest.xml:	<version type="dist">6.1.1</version>
+hypeDropzone/manifest.xml:		<version>2.2</version>
+hypeGameMechanics/manifest.xml:	<version type="dist">5.0.1</version>
+hypeGameMechanics/manifest.xml:		<version>3.0</version>
+hypeGit/manifest.xml:   <version type="dist">1.2.3</version>
+hypeGit/manifest.xml:        <version>3.0</version>
+hypeGroups/manifest.xml:	<version type="dist">3.1.1</version>
+hypeGroups/manifest.xml:		<version>3.0</version>
+hypeHero/manifest.xml:   <version type="dist">2.0.0</version>
+hypeHero/manifest.xml:        <version>3.0</version>
+hypeIllustration/manifest.xml:   <version type="dist">2.0.1</version>
+hypeIllustration/manifest.xml:        <version>3.0</version>
+hypeInbox/manifest.xml:	<version type="dist">8.0.2</version>
+hypeInbox/manifest.xml:		<version>3.0</version>
+hypeInbox/vendor/hypejunction/acl_builder_api/manifest.xml:	<version type="dist">1.1.1</version>
+hypeInbox/vendor/hypejunction/acl_builder_api/manifest.xml:		<version>1.11</version>
+hypeInboxMonitor/manifest.xml:	<version type="dist">1.0.2</version>
+hypeInboxMonitor/manifest.xml:		<version>1.12</version>
+hypeInteractions/manifest.xml:	<version type="dist">6.2.1</version>
+hypeInteractions/manifest.xml:		<version>3.0</version>
+hypeInvite/manifest.xml:	<version type="dist">2.2.1</version>
+hypeInvite/manifest.xml:		<version>3.0</version>
+hypeLanding/manifest.xml:    <version type="dist">1.0.0</version>
+hypeLanding/manifest.xml:        <version>3.0</version>
+hypeLists/manifest.xml:	<version type="dist">5.1.3</version>
+hypeLists/manifest.xml:		<version>3.0</version>
+hypeMapsOpen/manifest.xml:	<version type="dist">2.1.2</version>
+hypeMapsOpen/manifest.xml:		<version>3.0</version>
+hypeMedia/manifest.xml:	<version type="dist">1.3.1</version>
+hypeMedia/manifest.xml:		<version>3.0</version>
+hypeMentions/manifest.xml:    <version type="dist">1.1.1</version>
+hypeMentions/manifest.xml:        <version>3.0</version>
+hypeMenus/manifest.xml:    <version type="dist">1.1.3</version>
+hypeMenus/manifest.xml:        <version>3.0</version>
+hypeModerator/manifest.xml:   <version type="dist">1.1.0</version>
+hypeModerator/manifest.xml:        <version>3.0</version>
+hypeNotifications/manifest.xml:	<version type="dist">2.1.2</version>
+hypeNotifications/manifest.xml:		<version>3.0</version>
+hypePayments/manifest.xml:    <version type="dist">3.2.2</version>
+hypePayments/manifest.xml:        <version>3.0</version>
+hypePaypalPayments/manifest.xml:   <version type="dist">1.1.2</version>
+hypePaypalPayments/manifest.xml:        <version>3.0</version>
+hypePaywall/manifest.xml:    <version type="dist">1.2.4</version>
+hypePaywall/manifest.xml:        <version>3.0</version>
+hypePost/manifest.xml:   <version type="dist">1.9.2</version>
+hypePost/manifest.xml:        <version>3.0</version>
+hypePostAdmin/manifest.xml:    <version type="dist">1.0.4</version>
+hypePostAdmin/manifest.xml:        <version>3.0</version>
+hypeProfile/manifest.xml:    <version type="dist">1.4.15</version>
+hypeProfile/manifest.xml:        <version>3.0</version>
+hypePrototyperValidators/manifest.xml:	<version type="dist">4.2.2</version>
+hypePrototyperValidators/manifest.xml:		<version>1.8</version>
+hypeQuarantine/manifest.xml:	<version type="dist">1.0.0</version>
+hypeQuarantine/manifest.xml:		<version>2.3</version>
+hypeScraper/manifest.xml:    <version type="dist">6.2.1</version>
+hypeScraper/manifest.xml:        <version>3.0</version>
+hypeScraper/vendor/hypejunction/http-parser/tests/test-files/oembed.xml:	<version>1.0</version>
+hypeShortcode/manifest.xml:   <version type="dist">1.2.0</version>
+hypeShortcode/manifest.xml:        <version>3.0</version>
+hypeShutdown/manifest.xml:   <version type="dist">1.0.3</version>
+hypeShutdown/manifest.xml:        <version>3.0</version>
+hypeSlider/manifest.xml:	<version type="dist">1.0.0</version>
+hypeSlider/manifest.xml:		<version>3.0</version>
+hypeStash/manifest.xml:	<version type="dist">1.0.2</version>
+hypeStash/manifest.xml:		<version>3.0</version>
+hypeSubscriptions/manifest.xml:    <version type="dist">1.2.3</version>
+hypeSubscriptions/manifest.xml:        <version>3.0</version>
+hypeTheme/manifest.xml:    <version type="dist">1.1.2</version>
+hypeTheme/manifest.xml:        <version>3.0</version>
+hypeTime/manifest.xml:   <version type="dist">1.1.0</version>
+hypeTime/manifest.xml:        <version>3.0</version>
+hypeTrees/manifest.xml:	<version type="dist">1.1.0</version>
+hypeTrees/manifest.xml:		<version>3.0</version>
+hypeTwig/manifest.xml:	<version type="dist">1.1.1</version>
+hypeTwig/manifest.xml:		<version>3.0</version>
+hypeVue/manifest.xml:    <version type="dist">1.1.0</version>
+hypeVue/manifest.xml:        <version>3.0</version>
+hypeWall/manifest.xml:	<version type="dist">6.2.0</version>
+hypeWall/manifest.xml:		<version>3.0</version>
+hypewall_izap_videos_tidypics/manifest.xml:	<version>3.0.0</version>
+hypewall_izap_videos_tidypics/manifest.xml:		<version>3.0.0</version>
+hypewall_izap_videos_tidypics/manifest.xml:		<version>6.2.0</version>
+identicon/manifest.xml:	<version>2.3.2</version>
+identicon/manifest.xml:		<version>2.3.0</version>
+image_enlarger/manifest.xml:	<version>2.0.2</version>
+image_enlarger/manifest.xml:		<version>3.0</version>
+invitefriends/manifest.xml:	<version>3.0</version>
+invitefriends/manifest.xml:		<version>3.0</version>
+izap_videos/manifest.xml:	<version>3.3.2</version>
+izap_videos/manifest.xml:		<version>3.3.0</version>
+lastlogin/manifest.xml:	<version>3.3.0</version>
+lastlogin/manifest.xml:		<version>3.3.0</version>
+likes/manifest.xml:	<version>3.0</version>
+likes/manifest.xml:		<version>3.0</version>
+login_as/manifest.xml:	<version>2.1</version>
+login_as/manifest.xml:		<version>3.0</version>
+login_redirector/manifest.xml:	<version>5.0</version>
+login_redirector/manifest.xml:		<version>2.2</version>
+members/manifest.xml:	<version>3.0</version>
+members/manifest.xml:		<version>3.0</version>
+members_extended/manifest.xml:	<version>1.1</version>
+members_extended/manifest.xml:		<version>1.9</version>
+members_extended/manifest.xml:		<version>1.9</version>
+members_extended/manifest.xml:		<version>1.9</version>
+menu_builder/manifest.xml:	<version>5.0</version>
+menu_builder/manifest.xml:		<version>3.0</version>
+messageboard/manifest.xml:	<version>3.0</version>
+messageboard/manifest.xml:		<version>3.0</version>
+messages/manifest.xml:	<version>3.0</version>
+messages/manifest.xml:		<version>3.0</version>
+metatags/manifest.xml:<version>3.0.1</version>
+metatags/manifest.xml:  <version>3.0</version>
+minimal_hide_search/manifest.xml:	<version>3.3.0</version>
+minimal_hide_search/manifest.xml:		<version>3.3.0</version>
+mmenu/manifest.xml:	<version>1.1</version>
+mmenu/manifest.xml:		<version>3.0</version>
+newsletter/manifest.xml:	<version>5.2.2</version>
+newsletter/manifest.xml:		<version>3.0</version>
+notifications/manifest.xml:	<version>3.0</version>
+notifications/manifest.xml:		<version>3.0</version>
+notification_tools/manifest.xml:	<version>1.9.0</version>
+notification_tools/manifest.xml:		<version>1.9</version>
+oembed/manifest.xml:	<version>2.1</version>
+oembed/manifest.xml:		<version>3.0</version>
+pages/manifest.xml:	<version>3.0</version>
+pages/manifest.xml:		<version>3.0</version>
+pdf_export/manifest.xml:	<version>1.0-beta</version>
+pdf_export/manifest.xml:		<version>1.8</version>
+personal_activity/manifest.xml:	<version>1.0</version>
+personal_activity/manifest.xml:		<version>1.8</version>
+poll/manifest.xml:	<version>5.0</version>
+poll/manifest.xml:		<version>3.3</version>
+privacy_notification/manifest.xml:    <version>3.6</version>
+privacy_notification/manifest.xml:        <version>3.0</version>
+privacy_notification/manifest.xml:        <version>3.9</version>
+profile/manifest.xml:	<version>3.0</version>
+profile/manifest.xml:		<version>3.0</version>
+profile_manager/manifest.xml:	<version>14.0.1</version>
+profile_manager/manifest.xml:		<version>3.0</version>
+promo_widget/manifest.xml:	<version>1.0</version>
+promo_widget/manifest.xml:		<version>1.8</version>
+quicklinks/manifest.xml:	<version>3.0</version>
+quicklinks/manifest.xml:		<version>3.3</version>
+recentdiscussions/manifest.xml:	<version>2.0.0</version>
+recentdiscussions/manifest.xml:		<version>2.0.0-beta.1</version>
+rename_friends/manifest.xml:	<version>1.1</version>
+rename_friends/manifest.xml:		<version>1.8</version>
+reportedcontent/manifest.xml:	<version>3.0</version>
+reportedcontent/manifest.xml:		<version>3.0</version>
+riverautoupdate/manifest.xml:	<version>1.8</version>
+riverautoupdate/manifest.xml:		<version>1.8</version>
+search/manifest.xml:	<version>3.0</version>
+search/manifest.xml:		<version>3.0</version>
+search_advanced/manifest.xml:	<version>5.0.1</version>
+search_advanced/manifest.xml:		<version>3.0</version>
+set_no_notifications/manifest.xml:	<version>3.0.0</version>
+set_no_notifications/manifest.xml:		<version>3.0.0</version>
+signature/manifest.xml:	<version>2.0</version>
+signature/manifest.xml:		<version>2.0</version>
+simplesaml/manifest.xml:	<version>4.0</version>
+simplesaml/manifest.xml:		<version>3.0</version>
+site_announcements/manifest.xml:	<version>6.2.1</version>
+site_announcements/manifest.xml:		<version>3.0</version>
+site_notifications/manifest.xml:	<version>3.0</version>
+site_notifications/manifest.xml:		<version>3.0</version>
+static/manifest.xml:	<version>6.0.1</version>
+static/manifest.xml:		<version>3.0</version>
+super-river/manifest.xml:    <version>0.1</version>
+super-river/manifest.xml:        <version>2.0</version>
+system_log/manifest.xml:	<version>3.0</version>
+system_log/manifest.xml:		<version>3.0</version>
+tagcloud/manifest.xml:	<version>3.0</version>
+tagcloud/manifest.xml:		<version>3.0</version>
+tag_tools/manifest.xml:	<version>3.0</version>
+tag_tools/manifest.xml:		<version>3.0</version>
+target_blank/manifest.xml:	<version>6.0.1</version>
+target_blank/manifest.xml:		<version>3.1</version>
+tell_a_friend/manifest.xml:	<version>2.1.1</version>
+tell_a_friend/manifest.xml:		<version>3.0</version>
+test_panel/manifest.xml:	<version>3.0</version>
+test_panel/manifest.xml:		<version>3.1</version>
+thewire/manifest.xml:	<version>3.0</version>
+thewire/manifest.xml:		<version>3.0</version>
+thewire-crossposting/manifest.xml:        <version>0.2</version>
+thewire-crossposting/manifest.xml:                <version>2.0</version>
+thewire-richcontent/manifest.xml:        <version>0.1</version>
+thewire-richcontent/manifest.xml:                <version>2.0</version>
+thewire_tools/manifest.xml:	<version>9.0</version>
+thewire_tools/manifest.xml:		<version>3.3</version>
+thewire_tools/manifest.xml:		<version>1.9</version>
+thewire-websitecards/manifest.xml:        <version>1.0</version>
+thewire-websitecards/manifest.xml:                <version>2.0</version>
+tidypics/manifest.xml:	<version>3.3.1</version>
+tidypics/manifest.xml:		<version>3.3.0</version>
+timezones/manifest.xml~:	<version>1.0</version>
+timezones/manifest.xml~:		<version>1.9</version>
+timezones/manifest.xml:	<version>1.0</version>
+timezones/manifest.xml:		<version>1.9</version>
+tour_guide/manifest.xml:	<version>1.0</version>
+tour_guide/manifest.xml:		<version>3.3</version>
+tracker/manifest.xml:	<version>3.00</version>
+tracker/manifest.xml:		<version>3.00</version>
+trusted_users/manifest.xml:	<version>1.0.1</version>
+trusted_users/manifest.xml:		<version>1.8</version>
+trusted_user_spam_report/manifest.xml:	<version>1.1</version>
+trusted_user_spam_report/manifest.xml:		<version>1.8</version>
+unvalidatedemailchange/manifest.xml:	<version>3.0.0</version>
+unvalidatedemailchange/manifest.xml:	<version>3.0.0</version>
+users_online/manifest.xml:	<version>3.0.0</version>
+users_online/manifest.xml:		<version>3.0.0</version>
+user_support/manifest.xml:	<version>5.0.2</version>
+user_support/manifest.xml:		<version>3.3</version>
+uservalidationbyemail/manifest.xml:	<version>3.0</version>
+uservalidationbyemail/manifest.xml:		<version>3.0</version>
+webcam/manifest.xml:	<version>2.3</version>
+webcam/manifest.xml:		<version>2.3</version>
+web_services/manifest.xml:	<version>3.0</version>
+web_services/manifest.xml:		<version>3.0</version>
+whoviewedme/manifest.xml:	<version>2.3</version>
+whoviewedme/manifest.xml:		<version>2.3</version>
+widget_manager/manifest.xml:	<version>11.0</version>
+widget_manager/manifest.xml:		<version>3.3</version>
+widget_pack/manifest.xml:	<version>2.2.1</version>
+widget_pack/manifest.xml:		<version>3.0</version>
+wizard/manifest.xml:	<version>5.0.1</version>
+wizard/manifest.xml:		<version>3.3</version>

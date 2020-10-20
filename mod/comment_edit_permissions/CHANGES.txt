@@ -1,0 +1,30 @@
+Changelog
+=========
+
+3.3.0
+-----
+
+- Elgg 3.3 required at minimum,
+- updated for Elgg 3.3.
+
+3.0.0
+-----
+
+- Elgg 3.0 required at minimum,
+- updated for Elgg 3.
+
+2.3.0
+-----
+
+- Elgg 2.3 required at minimum,
+- only minor code cleanup.
+
+2.0.0
+-----
+
+- Updated for Elgg 2.0 and newer 2.X.
+
+1.10.0
+-----
+
+- Initial release for Elgg 1.10 and newer 1.X.

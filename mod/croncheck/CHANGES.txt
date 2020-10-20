@@ -1,0 +1,40 @@
+Changelog
+=========
+
+3.0.0
+-----
+
+- Requires Elgg 3.0 at minimum,
+- Updated to work on Elgg 3.
+
+
+2.3.1
+-----
+
+- Requires Elgg 2.3 at minimum,
+- Code cleanup and rework of cron stats page.
+
+2.0.0
+-----
+
+- Updated for Elgg 2.0 (should also work on any later Elgg 2.X version).
+
+1.10.1
+------
+
+- composer.json added.
+
+1.10.0
+------
+
+- Updated for Elgg 1.10.
+
+1.9.0
+-----
+
+- Updated for Elgg 1.9.
+
+1.8.0
+-----
+
+- Intial release for Elgg 1.8.

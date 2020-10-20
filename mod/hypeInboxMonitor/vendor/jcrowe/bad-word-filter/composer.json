@@ -1,0 +1,23 @@
+{
+    "name": "jcrowe/bad-word-filter",
+    "description": "PHP Bad word filtering. Checks for the existence of a bad word in a string or array.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Crowe",
+            "email": "jcrowe206@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=4.0.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "JCrowe\\BadWordFilter\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

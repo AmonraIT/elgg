@@ -1,0 +1,60 @@
+/* User support button */
+#user-support-button {
+	position: fixed;
+    
+	background: $(topbar-background-color);
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	
+	font-size: 16px;
+    font-weight: bold;
+    line-height: 16px;
+    text-align: center;
+    
+    z-index: 1000;
+    
+    &:hover {
+		background: #4787B8;
+	}
+	
+	&.position-horizontal-left {
+		left: 0;
+		border-radius: 0 3px 3px 0;
+	}
+	
+	&.position-horizontal-right {
+		right: 0;
+		border-radius: 3px 0 0 3px;
+	}
+	
+    a {
+		padding: .5rem .25rem;
+		color: white;
+		text-decoration: none;
+		display: block;
+		text-align: center;
+		text-transform: uppercase;
+	}
+	
+	.elgg-anchor-icon-alt {
+		margin: 0;
+		padding: 0;
+		color: white;
+	}
+	
+	.user-support-button-help-center.elgg-state-active .elgg-icon {
+		color: #D63006;
+	}
+}
+
+/* Help Center */
+
+form.elgg-form-user-support-help-center-search .user-support-help-center-search-input {
+	min-width: 500px;
+}
+
+@media $(media-tablet-up) {
+	#user_support_help_center_help {
+		max-height: 250px;
+		overflow-x: hidden;
+	}
+}

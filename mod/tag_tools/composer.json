@@ -1,0 +1,22 @@
+{
+	"name": "coldtrick/tag_tools",
+	"description": "Offers enhancements/tools for tags",
+	"type": "elgg-plugin",
+	"keywords": ["elgg", "plugin"],
+	"license": "GPL-2.0-only",
+	"support": {
+		"source": "https://github.com/ColdTrick/tag_tools",
+		"issues": "https://github.com/ColdTrick/tag_tools/issues"
+	},
+	"require": {
+		"composer/installers": "^1.0.8",
+		"bower-asset/tag-it": "dev-master#6ccd2de95e7cf7e254ad1a82e946450c21e40421"
+	},
+	"require-dev": {
+		"coldtrick/sniffs": "dev-master",
+		"coldtrick/releases": "dev-master"
+	},
+	"conflict": {
+		"elgg/elgg": "<3.0"
+	}
+}

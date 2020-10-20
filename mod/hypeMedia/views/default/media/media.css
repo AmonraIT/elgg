@@ -1,0 +1,155 @@
+.media-album-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(100px, 0.25fr));
+	grid-gap: 0.25rem;
+}
+
+.media-album-grid > *:first-child {
+	grid-column: 1 / 3;
+	grid-row: 1 /3;
+}
+
+.media-album-item-thumb {
+	height: 0;
+	padding-bottom: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50%;
+	display: block;
+}
+
+.media-album-item > a > span {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.media-album-item > a {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.media-album-item {
+	background: $(background-color-soft);
+	position: relative;
+}
+
+.media-album-item.media-album-more {
+	border: 1px solid $(border-color-soft);
+}
+
+.media-album-item.media-album-more > a {
+	padding-top: 50%;
+	text-align: center;
+	font-size: 30px;
+	line-height: 30px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.media-album-item.media-album-more {
+	background: #fff;
+}
+
+.media-album-item.media-album-more > a:hover {
+	background: $(border-color-soft);
+}
+
+.media-album-item.media-album-more > a > span {
+	margin-top: -15px;
+}
+
+
+.media-slider {
+	.slick-next, .slick-prev {
+		width: 80px;
+		height: 80px;
+		vertical-align: middle;
+		text-align: center;
+		line-height: 80px;
+		z-index: 2;
+	}
+
+	.slick-next {
+		right: 0;
+	}
+
+	.slick-prev {
+		left: 0;
+	}
+
+	.slick-prev:before, .slick-next:before {
+		font-size: 80px;
+		opacity: 1;
+		line-height: 80px;
+		vertical-align: middle;
+		color: $(text-color-highlight);
+	}
+
+	.slick-next:before {
+		content: "\203A";
+	}
+
+	.slick-prev:before {
+		content: "\2039";
+	}
+}
+
+.media-slider .media-album-item {
+	height: 8rem;
+	width: 8rem;
+	margin: 0.25rem;
+	background: #fff;
+	transition: opacity 0.5s;
+}
+
+.media-slider .media-album-item .media-album-item-thumb {
+	width: 8rem;
+}
+
+.media-slider .media-slider-slide {
+	outline: none;
+	cursor: pointer;
+}
+
+.media-slider .media-slider-slide:not(.slick-current) {
+	opacity: 0.3;
+}
+
+.media-slider-info .elgg-heading-main {
+	font-size: 1.5rem;
+}
+
+.media-slider-info .elgg-layout-header {
+	border: none;
+	margin: 0;
+}
+
+.media-slider-info .elgg-listing-full-attachments {
+	margin: 1rem auto;
+}
+
+.page-media-slider .elgg-page-body .elgg-inner {
+	margin: 0;
+	padding: 0;
+	max-width: none;
+}
+
+.media-slider-layout > .elgg-layout-columns > .elgg-layout-body {
+	flex: none;
+	width: 100%;
+	overflow: hidden;
+}
+
+.media-slider-info .elgg-ajax-loader {
+	margin: 5rem auto;
+}
+
+.elgg-listing-full-attachments .media-album-grid {
+	margin: 1rem auto;
+}
+
+.video-js.scraper-card-flex {
+	width: 100%;
+}

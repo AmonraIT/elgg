@@ -1,0 +1,81 @@
+Version history
+===============
+
+3.1 (2020-06-09):
+
+- added: action to clear csv results
+- added: CSV endpoint for form results
+- added: form validation to prevent invalid forms from being used
+- fixed: do not prevent using enters in textareas
+
+3.0 (2020-05-26):
+
+- changed: added double submit prevention to forms
+- changed: increased minimal Elgg version to 3.3
+
+2.0.3 (2019-08-22):
+
+- several small chores/fixes
+
+2.0.2 (2019-07-11):
+
+- fixed: conditional sections not processed for multi value fields
+
+2.0.1 (2019-04-17):
+
+- several small chores/fixes
+
+2.0 (2019-03-27):
+
+- changed: form friendly title resource now uses a controller
+- changed: forms delete now uses generic entity delete
+- changed: minimal requirements updated to Elgg 3.0
+- changed: moved pagehandler function to route registration
+- changed: plugin initialisation via elgg-plugin and bootstrap
+- fixed: fatal error for supplying wrong e-mail recipient
+- fixed: history sidebar uses correct system_log function
+
+1.4 (2018-09-07):
+
+- added: option to prefill a field with a user attibute/profile field
+
+1.3.2 (2018-05-31):
+
+- fixed: only show generic thankyou text if there is no custom text
+
+1.3.1 (2018-05-17):
+
+- changed: when navigating form pages always scroll to top
+
+1.3 (2018-01-25):
+
+- added: keep count of the number of form submissions
+
+1.2 (2018-01-11):
+
+- added: option to automatically send a email copy to user filling in form
+
+1.1 (2017-11-29):
+
+- changed: required input/checkboxes now expect at least one checked
+- fix: clear custom error messages correctly for input/radios
+- fix: correctly reset customErrorMessages for checkboxes
+- fix: forced correct order of tab clicking to prevent order issues
+- fix: unwanted element attributes are leaking to html
+
+1.0.2 (2017-09-21):
+
+- fixed: conditional sections now working for radio and multiselect
+
+1.0.1 (2017-07-31):
+
+- changed: replaced page title with an hr in an email
+- fixed: cell alignment in email incorrect
+
+1.0 (2017-05-30):
+
+- removed: use of deprecated function
+
+1.0-beta.1 (2017-02-27):
+
+- first release

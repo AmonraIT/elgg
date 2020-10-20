@@ -1,0 +1,7 @@
+Changelog
+=========
+
+2.3.0
+-----
+
+* Initial release for Elgg 2.3.

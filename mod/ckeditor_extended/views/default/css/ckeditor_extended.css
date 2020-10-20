@@ -1,0 +1,26 @@
+.ckeditor-extended-browse li:hover {
+	background: #CCC;
+	cursor: pointer;
+}
+
+.ckeditor-extended-browse .elgg-image {
+	width: 100px;
+}
+
+.ckeditor-extended-browse img {
+	max-height: 50px;
+	max-width: 100px;
+}
+
+.ckeditor-extended-required-textarea {
+	border: 0 !important;
+	height: 0 !important;
+	width: 0 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	position: absolute !important;
+}
+
+.ckeditor-extended-required-textarea:invalid {
+	box-shadow: none;
+}

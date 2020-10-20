@@ -1,0 +1,84 @@
+Version history
+===============
+
+4.1 (2020-10-13):
+
+- added: you can now configure the simple editor config
+
+4.0.6 (2020-09-30):
+
+- fixed: sanitize filename after autoloaded is loaded
+
+4.0.5 (2020-09-01):
+
+- changed: inline edit functionality has been restored
+- fixed: sanitize user provided file paths
+
+4.0.4 (2020-05-26):
+
+- fixed: replaced deprecated function call
+- fixed: replaced use of a deprecated function
+
+4.0.3 (2019-09-18):
+
+- fixed: fix orientation of uploaded images
+
+4.0.2 (2019-08-22):
+
+- fixed: need to tell upload to use old style uploading
+
+4.0.1 (2019-07-24):
+
+- fixed: make sure hidden required textarea remains style is not overriden
+
+4.0 (2019-03-27):
+
+- added: mediaembed plugin
+- changed: ckeditor uses custom file object for custom filestore usage
+- changed: minimal requirements now need Elgg 3.0
+- changed: moved hooks to class functions
+- changed: moved start file code into Bootstrap class
+- changed: no longer provide a custom ckeditor version
+- changed: replaced pagehandler function with route definitions
+- changed: simplified cache reset on plugin settings save
+
+3.0 (2017-05-11):
+
+- added: CKEditor 4.6
+- added: support for drag&drop images in editor
+- changed: increased minimal Elgg version to 2.3
+
+2.2 (2017-03-24):
+
+- added: editor field now is html5 validated
+
+2.1.1 (2017-01-26):
+
+- fixed: workaround for core Elgg 2.3 bug
+
+2.1 (2016-10-05):
+
+- added: inline editor view
+- added: retrieval of inline objects now preloads all based on prefix
+- added: support for asset_library plugin
+- changed: moved browse/upload page to resource view
+- fixed: default settings does not need to remove contextmenu
+
+2.0 (2016-01-05):
+
+- added: a plugin setting now controls if uploaded files will be overwritten
+- added: different notice when uploading a file (and it is missing)
+- added: you can now delete an uploaded image from the browse window
+- changed: updated for Elgg 2.0
+- chore: replaced custom css with helper classes
+- fixed: incorrect filename on duplicate image
+
+1.1 (2015-07-08):
+
+- added: composer support
+- changed: updated for 1.11
+- fixed: suppress PHP warning during browsing because the warning is handled
+
+1.0 (2014-11-17):
+
+- initial version

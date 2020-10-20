@@ -1,0 +1,57 @@
+Version history
+===============
+
+6.2 (2020-09-30):
+
+- added: when a comment form is toggled it also receives the focus
+
+6.1.1 (2020-09-01):
+
+- fix: use correct logic to apply default comments list length
+- fixed: validate canComment in comments save action
+
+6.1 (2020-06-23):
+
+- added: threaded comments
+
+6.0 (2020-05-26):
+
+- Added german translation (#5)
+- changed: minimal requirement now is Elgg 3.3
+- removed: autoloading and user preferences have been removed
+
+5.0 (2019-09-04):
+
+- added: plugin setting to allow commenting on group content
+- changed: increases minimal Elgg version to 3.1.2
+
+4.1 (2019-08-22):
+
+- changed: hook callback uses class based params
+
+4.0.1 (2019-03-27):
+
+- several small chores/fixes
+
+4.0 (2019-03-27):
+
+- changed: increased version requirement to Elgg 3
+
+3.0 (2017-01-26):
+
+- added: plugin default settings
+- added: support for different comment subtype listing and reply form
+- changed: rewrote the plugin for Elgg 2.3
+- fixed: comment url forwarding depending on settings
+
+2.1 (2013-03-01):
+
+- added: login form (admin optional) instead of comment form if not logged in
+
+2.0 (2012-03-07):
+
+- updated for Elgg 1.8
+
+1.0 (2011-04-15):
+
+- initial version

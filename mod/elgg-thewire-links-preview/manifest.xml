@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>TheWire Links Preview Advanced</name>
+	<author>Webstar</author>
+	<version>1.10</version>
+	<category>Tools</category>
+	<description>Embed Media</description>
+	<website>http://e-Webstar.net</website>
+	<license>GPl v2</license>
+	<requires>
+		<type>elgg_release</type>
+		<version>1.9</version>
+	</requires>
+<requires>
+          <name>thewire</name>
+		<type>plugin</type>
+
+	</requires>
+</plugin_manifest>

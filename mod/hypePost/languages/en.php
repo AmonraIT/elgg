@@ -1,0 +1,68 @@
+<?php
+
+return [
+	'error:hmac' => 'Values submitted with the form have been altered and can not be saved',
+	'error:post:save' => 'The post could not be saved',
+	'success:post:save' => '%s has been saved',
+
+	'field:excerpt' => 'Summary',
+	'field:access_id' => 'Access',
+	'field:description' => 'Description',
+	'field:icon' => 'Upload Icon',
+	'field:cover' => 'Upload Cover',
+	'field:cover:file' => 'Upload an image file',
+	'field:cover:url' => 'or link to a cover image online',
+	'field:disable_comments' => 'Disable comments',
+	'field:modules' => 'Profile Modules',
+	'filed:modules:help' => 'Select modules that should be displayed on profile',
+
+	'field:layout' => 'Layout',
+	'field:page_shell' => 'Page Shell',
+	'field:template' => 'Template',
+
+	'post:profile:fields' => 'About',
+	'post:profile:menu' => 'Menu',
+	'post:profile:author' => 'Author',
+
+	'post:edit' => 'Edit %s',
+	'post:add' => 'Add %s',
+
+	'post:cover:author' => 'Photo by &nbsp; %s',
+	'post:cover:source' => 'Source',
+
+	'post:cover:ratio' => 'Dimensions',
+	'post:cover:gravity' => 'Cropping Gravity',
+	'post:cover:gravity:center' => 'Center',
+	'post:cover:gravity:north' => 'North',
+	'post:cover:gravity:east' => 'East',
+	'post:cover:gravity:south' => 'South',
+	'post:cover:gravity:west' => 'West',
+
+	'post:cover:delete' => 'Delete cover',
+	'post:cover:delete:success' => 'Cover image has been deleted',
+	'post:cover:delete:error' => 'Cover image could not be deleted',
+
+	'validation:error' => "Value for '%s' is invalid: %s",
+	'validation:error:default' => 'This values seems to be invalid',
+	'validation:error:notblank' => 'This value should not be blank.',
+	'validation:error:required' => 'This value is required.',
+	'validation:error:pattern' => 'This value seems to be invalid.',
+	'validation:error:min' => 'This value should be greater than or equal to %s.',
+	'validation:error:max' => 'This value should be lower than or equal to %s.',
+	'validation:error:range' => 'This value should be between %s and %s.',
+	'validation:error:minlength' => 'This value is too short. It should have %s characters or more.',
+	'validation:error:maxlength' => 'This value is too long. It should have %s characters or fewer.',
+	'validation:error:length' => 'The length should be between %s and %s characters long.',
+	'validation:error:mincheck' => 'You must select at least %s choices.',
+	'validation:error:maxcheck' => 'You must select %s choices or fewer.',
+	'validation:error:check' => 'You must select between %s and %s choices.',
+	'validation:error:equalto' => 'This value should be the same.',
+	'validation:error:type:email' => 'This value should be a valid email.',
+	'validation:error:type:url' => 'This value should be a valid url.',
+	'validation:error:type:number' => 'This value should be a valid number.',
+	'validation:error:type:integer' => 'This value should be a valid integer.',
+	'validation:error:type:digits' => 'This value should only contain digits.',
+	'validation:error:type:alphanum' => 'This value should only contain alphanumeric characters.',
+	'validation:error:invalid' => "Please ensure that value of '%s' is the correct format",
+	'validation:error:invalid_file' => "Uploaded file is invalid: %s'",
+];

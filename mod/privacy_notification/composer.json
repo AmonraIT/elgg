@@ -1,0 +1,27 @@
+{
+    "name": "nlybe/privacy_notification",
+    "description": "Display privacy notification for logged-in users",
+    "type": "elgg-plugin",
+    "keywords": [
+        "elgg",
+        "plugin",
+        "privacy",
+        "notification"
+    ],
+    "homepage": "",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Nikos Lyberakis",
+            "email": "nikos@lyberakis.gr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": ">=1.0.8",
+        "nlybe/datatables_api": ">=3.9"
+    },        
+    "extra": {
+        "installer-name": "privacy_notification"
+    }
+}

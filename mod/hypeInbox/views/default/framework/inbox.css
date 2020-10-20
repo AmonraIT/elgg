@@ -1,0 +1,115 @@
+/* Style the popup module */
+#inbox-popup {
+	padding: 0;
+	background: white;
+	width: 100%;
+	max-width: 100%;
+	position: absolute;
+	font-size: 85%;
+}
+
+@media $(media-tablet-up
+
+) {
+	#inbox-popup {
+		width: 25rem;
+	}
+}
+
+#inbox-popup .elgg-no-results,
+#inbox-popup .elgg-ajax-loader {
+	margin: 2rem auto;
+	text-align: center;
+}
+
+#inbox-popup .elgg-list-inbox {
+	max-height: 300px;
+	overflow-y: auto;
+	margin: 0;
+}
+
+#inbox-popup .elgg-foot {
+	border-top: 1px solid $(border-color-mild);
+}
+
+#inbox-popup .elgg-foot a {
+	text-align: center;
+	font-size: 12px;
+	min-width: 30px;
+	padding: 4px;
+	display: inline-block;
+	width: 100%;
+}
+
+.inbox-module > .elgg-body {
+	padding: 0;
+}
+
+.inbox-module > .elgg-body > .elgg-list {
+	border: none;
+}
+
+.inbox-module > .elgg-body > .elgg-list > li:last-child {
+	border: none;
+}
+
+.inbox-module > .elgg-foot {
+	border-top: 1px solid $(border-color-mild);
+}
+
+.inbox-thread-reply-form {
+	padding: 1rem;
+	background-color: $(background-color-soft);
+}
+
+.inbox-thread-reply-form .attachments-toggler,
+.elgg-form-messages-send .attachments-toggler {
+	float: none;
+}
+
+.elgg-menu-inbox-thread {
+	border: none;
+	margin: 0;
+	font-size: 0.9rem;
+	position: relative;
+	display: flex;
+	box-shadow: none;
+	z-index: auto;
+}
+
+.inbox-message {
+	display: flex;
+}
+
+.inbox-message-checkbox {
+	flex: none;
+	width: 40px;
+	text-align: center;
+	margin-top: 8px;
+}
+
+.inbox-message-content {
+	flex: 1;
+}
+
+.inbox-message-icon {
+	flex: none;
+	margin-right: 1rem;
+}
+
+.inbox-message-threaded {
+	cursor: pointer;
+}
+
+.inbox-message-unread {
+	background-color: #f5f6ff;
+}
+
+.elgg-list-inbox > li {
+	padding: 0 !important;
+}
+
+.elgg-list-inbox > li > * {
+	padding: 1rem;
+}
+

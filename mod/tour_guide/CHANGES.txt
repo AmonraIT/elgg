@@ -1,0 +1,6 @@
+Version history
+===============
+
+1.0 (2020-09-15):
+
+- first release

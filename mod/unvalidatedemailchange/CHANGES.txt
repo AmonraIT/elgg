@@ -1,0 +1,59 @@
+Changelog
+=========
+
+3.0.0
+-----
+
+- Elgg 3.0.0 required at minimum,
+- Updated to work on Elgg 3.
+
+2.3.4
+-----
+
+- General code cleanup and restructuring (bringing it up to date with some new stuff of Elgg 2.3 API),
+- Action error and success handling: updated to new Elgg API functions,
+- Usage of Elgg forms input API functions introduced in Elgg 2.3,
+- Fixed validation of (new) email (validate_email_address() causes an exception so use is_email_address()).
+
+2.3.3
+-----
+
+- Elgg 2.3.0 required at minimum,
+- No longer load Elgg's lighbox JS and CSS because they are loaded by core on all pages now anyway.
+
+1.10.3
+------
+
+- Tested to make sure that it works on Elgg 2.0 (that means it should also work on any future Elgg 2.X version),
+- composer.json added.
+
+1.10.2
+------
+
+- Based on version 1.9.2,
+- Fix of deprecation issues occuring on Elgg 1.10 (namely changing output/confirmlink view to output/url view).
+
+1.9.2
+-----
+
+- Updated version 1.8.2 for Elgg 1.9.
+
+1.8.2
+-----
+
+- show IP addresses used when registering the unvalidated accounts.
+
+1.9.1
+-----
+
+- Updated version 1.8.1 for Elgg 1.9.
+
+1.8.1
+-----
+
+- French translation added (thank to emanwebdev),
+
+1.8.0
+-----
+
+- Initial release.

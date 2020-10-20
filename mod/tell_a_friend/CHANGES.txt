@@ -1,0 +1,23 @@
+Version history
+===============
+
+2.1.1 (2020-08-18):
+
+- fixed: prevent double encoding of message contents in plain text input
+- fixed: prevent issues with htmlentities encoded content
+
+2.1 (2020-07-21):
+
+- changed: notification default content
+
+2.0 (2019-03-27):
+
+- changed: increased minimal Elgg version to 3.0
+- changed: notification now to mail
+- changed: page handler to ajax view
+- fixed: only act on searchable entities
+- removed: restriction to not send message to yourself
+
+1.0 (2019-03-13):
+
+- initial release

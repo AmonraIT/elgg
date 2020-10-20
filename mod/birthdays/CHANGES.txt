@@ -1,0 +1,30 @@
+Version history
+===============
+
+2.0.1 (2015-01-22):
+
+- fixed: deprecation notice
+
+2.0 (2015-01-22):
+
+- changes for Elgg 1.9
+
+1.1.1 (2015-01-21):
+
+- applied Elgg coding standards
+
+1.1 (2013-09-02):
+
+- added: settings to unlimit upcoming birthdays lists
+- fixed: crash when profile_manager is not active
+
+1.0.1 (2013-04-05):
+
+- changed: better prevention of wrong date formats
+- changed: limited upcomming birthdays to the next 3 months
+- changed: standarised selection options for birthdays
+- changed: upcomming birthdays now includes today
+
+1.0 (2012-07-26):
+
+- first release

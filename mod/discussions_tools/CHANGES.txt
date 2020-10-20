@@ -1,0 +1,45 @@
+Version history
+===============
+
+4.0 (2019-03-27):
+
+- changed: increased minimal Elgg version to 3.0
+- changed: moved action registration to elgg-plugin
+- changed: moved plugin hook registration to Bootstrap class
+- changed: moved widget registration to elgg-plugin
+- changed: no longer add discussion start form to list widgets
+- changed: rewrite for Elgg 3.0
+- removed: core view overrule, no longer needed
+
+3.0.1 (2017-02-27):
+
+- changed: registration of group_form_topics widget now in hook
+
+3.0 (2017-01-26):
+
+- changed: increased Elgg version requirement to 2.3
+- fixed: brought resource discussion/view inline with core
+
+2.0 (2016-05-26):
+
+- added: Dutch translation
+- changed: Elgg version requirement set to 2.1
+- fixed: deprecated notice
+
+1.0 (2016-04-14):
+
+- fixed: using correct jquery function
+
+1.0-rc.1 (2016-03-03):
+
+- added: discussion object view modifications
+- added: discussion status toggle to entity menu
+- added: discussions tool option description
+- added: discussions widget
+- added: group_form_topic widget
+- added: plugin framework
+- added: start_discussion widget
+
+0.1:
+
+ - initial build

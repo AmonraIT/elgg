@@ -1,0 +1,55 @@
+Version history
+===============
+
+3.0 (2020-05-26):
+
+- changed: increased minimal Elgg version to 3.3
+
+2.0.3 (2019-08-22):
+
+- fixed: removed quicklinks breadcrumbs
+- fixed: widget quicklink add link now opens in lightbox
+
+2.0.2 (2019-05-29):
+
+- fixed: handle entity without displayname
+
+2.0.1 (2019-04-17):
+
+- fixed: check correct class
+
+2.0 (2019-03-27):
+
+- added: elasticsearch counter export
+- added: support for alternate presentations of menu items
+- changed: increased Elgg version requirement to 3.0
+- changed: updated for Elgg 3
+- fixed: always load the quicklinks dependency via menu items
+
+1.0.1 (2016-04-14):
+
+- changed: unified supported type/subtypes across plugin
+
+1.0 (2016-01-25):
+
+- added: composer support
+- added: option to add menu items for url-based quicklinks (not entities) chore: plugin code cleanup
+- added: README
+- added: caching to increase performance
+- added: thewire to blocked subtypes
+- added: blacklisted some entity subtypes to not be able to quicklink them
+- added: listing layout
+- changed: js sortable registration to own function for better reuse
+- changed: limited usage to widget only
+- changed: quicklinks supported type/subtype now has a plugin hook
+- changed: title is now also required for a quick link
+- changed icon of add quicklink
+- fixed: some php warnings
+- fixed: using non existing translation key
+- fixed: correctly toggle entity_menu items
+- fixed: groups not showing up in the listing
+- fixed: quicklinks not added to all registered entity types
+- fixed: show correct text if no quicklinks are found
+- fixed: working display limit on menu in widgets
+- fixed: quicklinks are not likeable
+- removed: icon on add quicklink

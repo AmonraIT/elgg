@@ -1,0 +1,47 @@
+Version history
+===============
+
+5.1 (2019-11-11):
+
+- added: feature for bulk text changes in the database
+- fixed: make replacement likes use case insensitive query
+
+5.0 (2019-03-27):
+
+- changed: increased minimal Elgg version to 3.0
+- changed: rewrite for Elgg 3.0
+- fixed: no more notifications while switching admin role
+
+4.0 (2017-11-10):
+
+- changed: increased minimal Elgg version requirement
+- fixed: notifications from security_tools when switching admin state
+
+3.0 (2016-01-25):
+
+- added: composer support
+- complete plugin rewrite for Elgg 1.9
+
+2.1 (2014-08-19):
+
+- added: server information on admin page
+- added: error logging of actions/ajax calls
+- added: dutch translation
+
+2.0 (2012-03-16):
+
+- plugin made compatible with Elgg 1.8
+
+1.2:
+
+- added: option to always show admin box
+- added: stats box with info
+
+1.1 (2011-07-12):
+
+- added: ignore list of files/folders for plugin extract
+- changed: name of a function be be inline with naming convention
+
+1.0:
+
+- initial version

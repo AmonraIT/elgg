@@ -1,0 +1,40 @@
+{
+    "name": "hypejunction/hypemedia",
+    "type": "elgg-plugin",
+    "description": "Media albums for Elgg",
+    "homepage": "http://hypejunction.com",
+    "keywords": [
+        "elgg",
+        "plugin",
+        "media",
+        "images",
+        "gallery",
+        "albums"
+    ],
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Ismayil Khayredinov",
+            "email": "info@hypejunction.com"
+        }
+    ],
+    "extra": {
+        "installer-name": "hypeMedia"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "classes/"
+        }
+    },
+    "require": {
+        "bower-asset/slick-carousel": "~1.8.0",
+        "bower-asset/hammerjs": "^2.0",
+        "olaferlandsen/ffmpeg-php-class": "^0.1.4"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}

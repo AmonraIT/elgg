@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>footer_custom</name>
+	<id>footer_custom</id>
+	<version>1.0</version>
+
+	<description>Change the footer - Powered by Elgg</description>
+	<category>admin</category>
+
+	<author>Annivzinal</author>
+	<website></website>
+	<copyright>(c)Annivzinal</copyright>
+	<license>GNU General Public License version 2</license>
+
+	<requires>
+		<type>elgg_release</type>
+		<version>2.1</version>
+	</requires>
+
+</plugin_manifest>

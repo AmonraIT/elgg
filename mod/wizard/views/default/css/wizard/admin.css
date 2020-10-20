@@ -1,0 +1,34 @@
+/* Wizard admin CSS */
+.wizard-lightbox-wrapper {
+	width: 700px;
+	max-height: 600px;
+	overflow-y: auto;
+}
+
+.wizard-replacement-helper {
+	cursor: help;
+}
+
+.elgg-item-object-wizard_step .elgg-icon-arrows {
+	cursor: pointer;
+}
+
+.elgg-form-wizard-edit {
+	.elgg-fieldset-has-legend {
+		padding-bottom: 0;
+	
+		> * {
+			padding-left: .5rem;
+			padding-right: .5rem;
+		}
+		
+		> legend {
+			display: block;
+			padding: 0 0 .25rem;
+			margin-bottom: .5rem;
+			
+			font-weight: 500;
+			border-bottom: 1px solid $(border-color-soft);
+		}
+	}
+}

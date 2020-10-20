@@ -1,0 +1,85 @@
+Changelog
+=========
+
+3.3.1 (by iionly)
+-----------------
+
+- Elgg 3.3 required at minimum,
+- Updated for Elgg 3.3.
+
+3.0.1 (by iionly)
+-----------------
+
+- Fixed deprecated "Passing 'title' instead of 'text' to the navigation/tabs tab",
+- Fixed deprecated "Passing 'url' to the navigation/tabs tab".
+
+3.0.0 (by iionly)
+-----------------
+
+- Elgg 3.0 required at minimum,
+- Updated for Elgg 3.
+
+2.3.8 (by iionly)
+-----------------
+
+- Fix: display content of selected tab instead of always display content of "All" tab.
+
+2.3.7 (by iionly)
+-----------------
+
+- Fix on plugin settings page to correctly display and save maxIcons number input.
+
+2.3.6 (by iionly)
+-----------------
+
+- Elgg 2.3 required at minimum,
+- Code cleanup and usage of API of Elgg 2.3,
+- Medium avatar image size added as size option in settings.
+
+1.9.5 (by iionly)
+-----------------
+
+- Tested to make sure that it works on Elgg 2.0 (that means it should also work on any future Elgg 2.X version),
+- composer.json added
+
+1.9.4 (by iionly)
+-----------------
+
+- Updated version 1.8.4 for Elgg 1.9.
+
+1.8.4 (by iionly)
+-----------------
+
+- Layout adjustments (breadcrumps and title section) to better match the typical Elgg page layout,
+- Some code cleanup.
+
+1.9.3 (by iionly)
+-----------------
+
+- Updated version 1.8.3 for Elgg 1.9.
+
+1.8.3 (by iionly)
+-----------------
+
+- Dutch translation added (thanks to Hans Fraiponts).
+
+1.8.2 (by iionly)
+-----------------
+
+- French translation added (thanks to emanwebdev),
+- German translation added.
+
+1.8.1 (by iionly)
+-----------------
+
+- Tabs for displaying avatars of members logged in today, last week or all.
+
+1.8.0 (by iionly)
+-----------------
+
+- Updated for Elgg 1.8.
+
+1.0
+---
+
+- First release to the public.

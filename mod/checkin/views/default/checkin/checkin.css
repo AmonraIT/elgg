@@ -1,0 +1,128 @@
+/*
+ *
+ * Check In CSS
+ *
+ * @author Per Jensen
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU General Public License v2
+ * @copyright Copyright (c) 2019, Per Jensen
+ *
+ */
+
+ /* ***************************************
+ 	MISC
+ *****************************************/
+.checkin-photo {
+    text-align: center;
+    margin: 0 0 1rem;
+	line-height: 1;
+}
+.checkin-field {
+    border: 1px solid #e6e6ea;
+    padding: 1rem;
+	margin: 0 0 1rem;
+}
+.checkin-field span {
+    padding: 0;
+}
+.checkin-field .elgg-output {
+    padding: 0;
+	margin: 0;
+}
+/* Map display */
+#map-canvas {
+	width: 100%;
+	height: 300px;
+}
+#site-map-canvas {
+	height: 600px;
+	margin: 1rem 0;
+}
+/* Infowindow */
+.gm-style {   
+	font: 400 1rem "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	line-height: 1.5;
+}
+.gm-style-iw .elgg-module-featured {
+	border: none;
+	margin-bottom: 0;	
+}
+.gm-style-iw .elgg-module-featured .elgg-head {
+	padding: 1rem;
+}
+.gm-style-iw .elgg-module-featured h3 {
+	font-weight: normal;
+}
+.gm-style-iw .elgg-module-featured .elgg-head a {
+	color: #fff;
+}
+.gm-style .gm-style-iw .elgg-content {
+	font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+	margin-top: 0.5rem;
+}
+.gm-style .gm-style-iw-c {
+    border-radius: 3px;
+	background-color: #FFF;
+	padding: 0;
+}
+.gm-style-iw-d .elgg-image {
+	max-height: 216px;
+	overflow: hidden;
+}
+.gm-style img {
+    width: 100%;
+	line-height: 1;
+	display: block;
+}
+.gm-style-iw-d {
+	overflow: visible !important;
+	max-width: none !important;
+}
+.gm-style .gm-style-iw button {
+    top: 8px !important;
+    right: 8px !important;
+    opacity: 0.4;
+    background: #fff !important;
+    border-radius: 50%;
+    z-index: 100000;
+}
+.gm-style .gm-style-iw button:hover {
+    opacity: 0.8;
+}
+/* end Infowindow */
+.checkin-location-field {
+    flex-direction: row;	
+}
+.checkin-location-field .elgg-icon {
+    margin-right: .5rem;
+	color: #E34B38;
+}
+.elgg-page-checkin .elgg-gallery {
+	margin: 0 -.5rem;
+}
+.elgg-page-checkin .elgg-gallery > li {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex: 1 0 26%;
+	padding: 1rem .5rem .5rem .5rem;
+}
+.elgg-page-checkin .file-gallery-item {
+	width: auto !important;
+}
+/* remove default fileexists warning */
+.elgg-page-checkin .elgg-field-input .elgg-state-warning {
+	display: none;
+}
+/* ***************************************
+	RESPONSIVE
+*****************************************/
+@media screen and (max-width: 50rem) {
+	.elgg-page-checkin .elgg-gallery > li {
+		flex: 1 0 34%;
+	}
+	.pac-container .pac-item {
+		font-size: 14px;
+	}
+}

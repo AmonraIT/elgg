@@ -1,0 +1,24 @@
+{
+    "name": "iionly/cookiebanner",
+    "description": "Displays a banner at top of page informing about cookie terms of use on the site.",
+    "type": "elgg-plugin",
+    "keywords": [
+        "elgg",
+        "plugin"
+    ],
+    "homepage": "https://github.com/iionly/cookiebanner",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "iionly",
+            "homepage": "https://github.com/iionly",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+            "issues": "https://github.com/iionly/cookiebanner/issues"
+    },
+    "require": {
+        "composer/installers": ">=1.0.8"
+    }
+}

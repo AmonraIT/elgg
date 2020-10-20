@@ -1,0 +1,43 @@
+Changelog
+=========
+
+3.3.0
+-----
+
+- Requires Elgg 3.3 at minimum,
+- Updates for Elgg 3.3.
+
+3.0.0
+-----
+
+- Requires Elgg 3.0 at minimum,
+- Minor updates for the Age Restriction plugin to fully work on Elgg 3.
+
+2.3.3
+-----
+
+- Requires Elgg 2.3 at minimum,
+- Code cleanup,
+- Usage of Elgg 2.3 API functions and HTML5 required attribute for register form agerestriction plugin input.
+
+1.9.2
+-----
+
+- Tested on Elgg 1.9 - 1.12 and Elgg 2.0 (therefore should work on any Elgg 2.X version in future),
+- composer.json added to allow for composer install of the Agerestriction plugin.
+
+1.9.1
+-----
+
+- Updated for Elgg 1.9,
+- German language file added.
+
+1.1
+---
+
+- Correctly uses the sticky form feature introduced in Elgg 1.8, i.e. the input fields will keep their content in case of an error input. The age checkbox has to be re-checked though to confirm the age.
+
+1.0
+---
+
+- Initial release for Elgg 1.8.

@@ -1,0 +1,74 @@
+/* questions css */
+.elgg-menu-item-show-tags {
+	margin-left: auto !important;	
+}
+
+.questions-tags-filter {
+	
+	> .elgg-menu-container {
+		display: inline-block;
+	}
+	
+	li.elgg-tag {
+		a {
+	    	line-height: inherit;
+	    }
+	}	    
+}
+
+.question-solution-time {
+	border: 1px solid #CCC;
+	padding: 0 5px;
+	
+	font-size: 80%;
+	color: #CCC;
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.question-solution-time-due {
+	border-color: orange;
+	color: orange;
+}
+
+.question-solution-time-late {
+	border-color: red;
+	color: red;
+}
+
+#question-answers {
+	margin-top: 4rem;
+}
+
+.question-comments,
+.answer-comments {
+	margin-left: 2rem;
+	
+	> .elgg-head {
+		display: none;
+	}
+	
+	> .elgg-body {
+		display: flex;
+		flex-direction: column;
+		
+		> form {
+			order: 1;
+			display: block;
+		}
+		
+		.elgg-item-object-comment > .elgg-image-block {
+			> .elgg-image {
+				display: none;
+			}
+			
+			.elgg-content {
+				margin: 0;
+			}
+		}
+	}
+}
+
+/* end questions css*/

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+        <name>The Wire Rich Content</name>
+        <author>Ben Potter</author>
+        <version>0.1</version>
+        <description>Adds support for "rich content" in the wire. More than just text. This plugin is nothing but a Framework. Put this above other plugins that extend the wire and require this plugin.</description>
+
+        <requires>
+                <type>elgg_release</type>
+                <version>2.0</version>
+        </requires>
+        <requires>
+            <type>plugin</type>
+            <name>thewire</name>
+        </requires>
+        <requires>
+            <type>priority</type>
+            <priority>after</priority>
+            <plugin>thewire</plugin>
+        </requires>
+        
+</plugin_manifest>

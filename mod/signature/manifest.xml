@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>signature</name>
+	<author>Sathish kumar And Ura Soul</author>
+	<version>2.0</version>
+	<category>tools</category>
+	<description>adds a signature field to user tool settings page that appears at the bottom of comments.</description>
+	<website>https://www.webbehinds.com https://www.ureka.org</website>
+	<copyright>Copyright 2014 sathish kumar / ura soul</copyright>
+	<license>GNU Public License version 2</license>
+	<requires>
+		<type>elgg_release</type>
+		<version>2.0</version>
+	</requires>
+	<activate_on_install>false</activate_on_install>
+</plugin_manifest>

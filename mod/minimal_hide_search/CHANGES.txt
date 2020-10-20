@@ -1,0 +1,38 @@
+Changelog
+---------
+
+3.3.0
+-----
+
+- Requires Elgg 3.3 at minimum,
+- Removal of start.php (existence now no longer a required by Elgg),
+- Overriden (and customized) search/search_box view code taken from currently latest Elgg version (3.3.8) to be up-to-date with Elgg core functionality.
+
+3.0.0
+-----
+
+- Elgg 3.0 required at minimum,
+- Updated to work on Elgg 3.
+
+2.3.1
+-----
+
+- Requires Elgg 2.3 at minimum,
+- Just a clarification of license (GPLv2 only) in composer.json.
+
+1.9.1
+-----
+
+- Verified that it works on Elgg 1.9 - 1.12 and Elgg 2.0 (i.e. should also work on any future Elgg 2.X version),
+- composer.json added.
+
+1.9.0
+-----
+
+- Updated for Elgg 1.9.
+(If you use the Aalborg theme included in Elgg 1.9 you won't need this plugin as the theme already hides the search box from logged-out visitors.)
+
+1.0
+---
+
+- First and most likely last release.

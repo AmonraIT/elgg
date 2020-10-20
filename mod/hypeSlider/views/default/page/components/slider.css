@@ -1,0 +1,24 @@
+.elgg-slick-slider.elgg-state-loading {
+	position: relative;
+	height: 200px;
+	padding-top: 200px;
+	width: 100%;
+	overflow: hidden;
+	transition: all 300ms ease-out;
+}
+
+.elgg-slick-slider.elgg-state-loading:after {
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	animation: infinite-spinning 1s infinite linear;
+	border-radius: 50%;
+	border-width: 5px;
+	border-color: $(border-color-highlight) $(border-color-soft) $(border-color-soft);
+	border-style: solid;
+	display: block;
+	margin: -1.25rem -1.25rem 0 0;
+	height: 2.5rem;
+	width: 2.5rem;
+}

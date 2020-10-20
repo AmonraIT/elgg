@@ -1,7 +1,6 @@
-Elgg Starter Project [![Build Status](https://travis-ci.org/Elgg/starter-project.svg?branch=master)](https://travis-ci.org/Elgg/starter-project)
-====
+Elgg Wayshowers Code
 
-This is a quickstart skeleton for building a site based on Elgg 3.x.
+The initial code base for The Wayshowers site based on Elgg 3.3.11
 
 ## Installation
 
